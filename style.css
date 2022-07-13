@@ -2,14 +2,9 @@ h1{
     background-color: royalblue;
     color: antiquewhite;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
-
+    font-size: 30px;
 }
-.imageone{
+img{
     border: 10%;
-    border-radius: 50%;
-}
-.imagetwo{
-    border: 10%;
-    border-radius: 50%;
+    border-radius: 20%;
 }
